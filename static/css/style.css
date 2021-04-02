@@ -1,0 +1,14 @@
+.image {
+	position	: relative;
+	}
+
+
+h2 {
+	position	: absolute;
+	top		: 300px;
+	left		: 300px;
+	width		: 100%;
+	color: red;
+	font: bold 24px/45px Helvetica, Sans-Serif;
+
+}
